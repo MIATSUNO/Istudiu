@@ -1,4 +1,7 @@
-# Istudiu
-Um aplicativo de criação de capas 100% offline e grátis, não afiliado a nenhuma plataforma, mas projetado para criar capas especificamente para a Wattpad, Kayepad e Epubs digitais.
+# Istúdiu
 
-Ps: O app ***Istúdiu*** NÃO TEM RELAÇÕES DIRETAS, TAMPOUCO SURGIU APARTIR DA MINHA OUTRA PLATAFORMA/APP _(KAYEPAD)_ Mas é disponibilizado oficialmente por ``https://kayepad.neocities.org``
+O Istúdiu é um aplicativo gratuito e offline para criar capas digitais, pensado para obras publicadas ou preparadas para Wattpad, Kayepad e e-books EPUB.
+
+O projeto é independente da Kayepad: não foi criado como parte da plataforma e não tem relação direta com ela. A Kayepad apenas disponibiliza oficialmente o acesso ao projeto.
+
+- [Acessar a página oficial de distribuição na Kayepad](https://kayepad.neocities.org/)
